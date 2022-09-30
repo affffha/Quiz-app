@@ -1,4 +1,4 @@
-const QuestionData = [
+const QuestionsData = [
     {
         question:"ข้อใดไม่ใช่ tag html",
         A:"<react>",
@@ -25,4 +25,4 @@ const QuestionData = [
     }
 ]
 
-export default QuestionData
+export default QuestionsData
